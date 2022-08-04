@@ -21,7 +21,7 @@
 4. Переходим на вкладку Bot и жмем на Add Bot
 5. Жмем Reset Token и копируем полученный токен
 6. Листаем ниже и включаем SERVER MEMBERS INTENT
-7. Скачиваем [фывфыв]
+7. Скачиваем https://github.com/Paladic/massNickChangerBot/releases/download/realese/massNickChangerBot.rar
 8. Разахивируем в удобное нам место
 9. Открываем файлик appsettings.json
 10. Вместо YOUR_TOKEN вставляем скопированный ранее токен
